@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliprakash88&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliprakash88" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Django**
+- 🌱 I’m currently working as **Software Developer**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, Django, Restframework, Frontend**
 
 - 📫 How to reach me **anjaliprakash455@gmail.com**
 
