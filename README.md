@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm ANJALI</h1>
-<h3 align="center">Backend Developer | Python & Django</h3>
+<h3 align="center">Backend Developer | Python • Django • REST APIs</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=anjaliprakash88&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliprakash88" /> 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anjaliprakash88&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliprakash88" />
 </p>
 
-- 🌱 Currently working as **Software Developer**
+---
 
-- 💬 Ask me about **Python, Django, Django REST Framework, APIs, PostgreSQL**
+## 👩‍💻 About Me
 
-- 📫 How to reach me **anjaliprakash455@gmail.com**
+- 🌱 Currently working as **Backend Developer**
+- 💻 Experienced in **Python, Django, Django REST Framework**
+- 🔗 Skilled in **API Development, PostgreSQL, Payment Integration**
+- 📫 Reach me at **anjaliprakash455@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
 <a href="https://www.linkedin.com/in/anjali-prakash-269194236/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠 Languages and Tools
 
 <p align="left">
 
@@ -38,85 +46,99 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3.org/html/" target="_blank">
+<a href="https://www.w3.org/html/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://www.w3schools.com/css/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://getbootstrap.com" target="_blank">
+<a href="https://getbootstrap.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://postman.com" target="_blank">
+<a href="https://postman.com">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.figma.com/" target="_blank">
+<a href="https://www.figma.com/">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </a>
 
 </p>
 
-
+---
 
 ## 👩‍💻 Current Position
 
 **Backend Developer — Tech Fifo Innovations**  
 📅 Jan 2025 – Present
 
-- Developing backend systems using Python, Django, and Django REST Framework
-- Designing RESTful APIs for web and mobile applications
-- Working with PostgreSQL databases
-- Implementing authentication and payment integrations
+- Developing backend systems using **Python, Django, and Django REST Framework**
+- Designing **RESTful APIs** for web and mobile applications
+- Working with **PostgreSQL databases**
+- Implementing **authentication and payment integrations**
 
-## 🚀 Projects
+---
 
-### Smart Valve – IoT-Based Agricultural Automation System
-Tech Stack: Python, Django, REST APIs, Flutter, GSM/LoRa
+# 🚀 Featured Projects
 
-- Developed backend for admin web panel and farmer mobile app
-- Implemented remote motor control with real-time updates
-- Built weekly irrigation scheduling system
-- Integrated GSM/LoRa communication for IoT devices
+## 🌱 Smart Valve – IoT-Based Agricultural Automation System
+**Tech Stack:** Python, Django, REST APIs, Flutter, GSM/LoRa
 
-📱 Mobile App:
-Agrita
-https://play.google.com/store/apps/details?id=com.agrita.app
+- Developed backend for **admin web panel and farmer mobile app**
+- Implemented **remote motor control with real-time updates**
+- Built **weekly irrigation scheduling system**
+- Integrated **GSM/LoRa communication** for IoT device connectivity
 
-🌐 Admin Panel:
+📱 **Mobile App**  
+https://play.google.com/store/apps/details?id=com.agrita.app  
+
+🌐 **Admin Panel**  
 https://iot.kkms.co.in/
-The Agrita application is an agriculture IoT mobile app developed by Techfifo Innovations that connects farmers with smart farming devices and services
 
+---
 
-### Fivy – Fish & Vegetable Online Delivery App
-Tech Stack: Python, Django REST API, Flutter, React
+## 🛒 Fivy – Fish & Vegetable Online Delivery App
+**Tech Stack:** Python, Django REST API, Flutter, React
 
-- Developed backend APIs for customer mobile application
-- Implemented product listing, cart, and order management
-- Integrated secure payment gateway
-- Built APIs for order tracking and user authentication
+- Developed backend APIs for **customer mobile application**
+- Implemented **product listing, cart, and order management**
+- Integrated **secure payment gateway**
+- Built APIs for **order tracking and authentication**
 
+---
 
+## 🚗 AdDrive – Advertisement Campaign & Driver Reward Platform
+**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, React (Admin), Flutter (Driver App)
 
+- Developed backend APIs using **Django REST Framework**
+- Built **campaign management and advertisement assignment modules**
+- Implemented **earnings calculation based on vehicle odometer readings**
+- Created **secure role-based access for managers and drivers**
+- Developed APIs for **payments, ride history, and campaign tracking**
 
+🌐 **Website**  
+https://metroaddrive.com/
+
+📱 **Driver App**  
+https://play.google.com/store/apps/details?id=com.techfifo.addrive
+
+---
+
+## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliprakash88&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliprakash88&show_icons=true&locale=en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliprakash88" /></p>
-
-
-
-
