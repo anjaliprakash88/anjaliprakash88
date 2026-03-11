@@ -73,3 +73,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliprakash88&show_icons=true&locale=en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliprakash88" /></p>
+
+
+## 👩‍💻 Current Position
+
+**Backend Developer — Tech Fifo Innovations**  
+📅 Jan 2025 – Present
+
+- Developing backend systems using Python, Django, and Django REST Framework
+- Designing RESTful APIs for web and mobile applications
+- Working with PostgreSQL databases
+- Implementing authentication and payment integrations
+
+## 🚀 Projects
+
+### Smart Valve – IoT-Based Agricultural Automation System
+Tech Stack: Python, Django, REST APIs, Flutter, GSM/LoRa
+
+- Developed backend for admin web panel and farmer mobile app
+- Implemented remote motor control with real-time updates
+- Built weekly irrigation scheduling system
+- Integrated GSM/LoRa communication for IoT devices
+
+
+### Fivy – Fish & Vegetable Online Delivery App
+Tech Stack: Python, Django REST API, Flutter, React
+
+- Developed backend APIs for customer mobile application
+- Implemented product listing, cart, and order management
+- Integrated secure payment gateway
+- Built APIs for order tracking and user authentication
+
