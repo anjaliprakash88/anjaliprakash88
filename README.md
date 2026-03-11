@@ -5,7 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=anjaliprakash88&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliprakash88" />
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -24,7 +23,6 @@
 </a>
 </p>
 
----
 
 ## 🛠 Languages and Tools
 
@@ -134,6 +132,27 @@ https://metroaddrive.com/
 https://play.google.com/store/apps/details?id=com.techfifo.addrive
 
 ---
+
+## 🚚 Taskova – Delivery Driver Management Platform
+**Tech Stack:** Python, Django, Django REST Framework, Flutter, Stripe, WebSockets, Celery
+
+- Developed backend APIs using **Django REST Framework**
+- Implemented **Apple Sign-In and Google Sign-In authentication**
+- Integrated **Stripe with Apple Pay** for digital payments
+- Built **real-time driver updates using WebSockets**
+- Implemented **background task processing with Celery**
+- Optimized system to support **100+ drivers and multiple restaurants**
+
+---
+
+## 🦷 Arif Dental Clinic – Clinic Management Web Application
+**Tech Stack:** Python, Django, REST APIs, HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap
+
+- Developed a **Django-based web application** for clinic management
+- Implemented **appointment booking and patient record management**
+- Built **role-based authentication** for doctors, receptionists, and admins
+- Developed **Admin and Doctor dashboards** for managing appointments and patient data
+- Improved clinic workflow through **streamlined scheduling and record handling**
 
 ## 📊 GitHub Stats
 
