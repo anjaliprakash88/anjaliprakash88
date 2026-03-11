@@ -90,6 +90,14 @@ Tech Stack: Python, Django, REST APIs, Flutter, GSM/LoRa
 - Built weekly irrigation scheduling system
 - Integrated GSM/LoRa communication for IoT devices
 
+📱 Mobile App:
+Agrita
+https://play.google.com/store/apps/details?id=com.agrita.app
+
+🌐 Admin Panel:
+https://iot.kkms.co.in/
+The Agrita application is an agriculture IoT mobile app developed by Techfifo Innovations that connects farmers with smart farming devices and services
+
 
 ### Fivy – Fish & Vegetable Online Delivery App
 Tech Stack: Python, Django REST API, Flutter, React
