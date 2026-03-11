@@ -13,7 +13,6 @@
 - 🔗 Skilled in **API Development, PostgreSQL, Payment Integration**
 - 📫 Reach me at **anjaliprakash455@gmail.com**
 
----
 
 ## 🌐 Connect With Me
 
@@ -74,7 +73,6 @@
 
 </p>
 
----
 
 ## 👩‍💻 Current Position
 
@@ -86,7 +84,6 @@
 - Working with **PostgreSQL databases**
 - Implementing **authentication and payment integrations**
 
----
 
 # 🚀 Featured Projects
 
@@ -104,7 +101,6 @@ https://play.google.com/store/apps/details?id=com.agrita.app
 🌐 **Admin Panel**  
 https://iot.kkms.co.in/
 
----
 
 ## 🛒 Fivy – Fish & Vegetable Online Delivery App
 **Tech Stack:** Python, Django REST API, Flutter, React
@@ -114,7 +110,6 @@ https://iot.kkms.co.in/
 - Integrated **secure payment gateway**
 - Built APIs for **order tracking and authentication**
 
----
 
 ## 🚗 AdDrive – Advertisement Campaign & Driver Reward Platform
 **Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, React (Admin), Flutter (Driver App)
@@ -131,7 +126,6 @@ https://metroaddrive.com/
 📱 **Driver App**  
 https://play.google.com/store/apps/details?id=com.techfifo.addrive
 
----
 
 ## 🚚 Taskova – Delivery Driver Management Platform
 **Tech Stack:** Python, Django, Django REST Framework, Flutter, Stripe, WebSockets, Celery
@@ -143,7 +137,6 @@ https://play.google.com/store/apps/details?id=com.techfifo.addrive
 - Implemented **background task processing with Celery**
 - Optimized system to support **100+ drivers and multiple restaurants**
 
----
 
 ## 🦷 Arif Dental Clinic – Clinic Management Web Application
 **Tech Stack:** Python, Django, REST APIs, HTML, CSS, JavaScript, jQuery, AJAX, Bootstrap
