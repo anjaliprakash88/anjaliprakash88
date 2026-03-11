@@ -68,11 +68,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliprakash88&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliprakash88&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliprakash88" /></p>
 
 
 ## 👩‍💻 Current Position
@@ -103,4 +98,17 @@ Tech Stack: Python, Django REST API, Flutter, React
 - Implemented product listing, cart, and order management
 - Integrated secure payment gateway
 - Built APIs for order tracking and user authentication
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliprakash88&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliprakash88&show_icons=true&locale=en" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliprakash88" /></p>
+
+
+
 
