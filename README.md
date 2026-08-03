@@ -17,7 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/anjali-prakash-269194236/](https://www.linkedin.com/in/anjali-p-269194236/)" target="blank">
+<a href="https://www.linkedin.com/in/anjali-p-269194236/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
