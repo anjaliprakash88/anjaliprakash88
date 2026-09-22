@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANJALI</h1>
-<h3 align="center">Backend Developer | Python • Django • REST APIs</h3>
+<h3 align="center">Backend Developer | Python & Django</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=anjaliprakash88&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliprakash88" />
@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently working as **Backend Developer**
+- 🌱 Currently working as **Backend Python Django Developer**
 - 💻 Experienced in **Python, Django, Django REST Framework**
-- 🔗 Skilled in **API Development, PostgreSQL, Payment Integration**
+- 🔗 Skilled in **Python, Django, Flask, FastAPI, Django REST Framework (DRF), Celery, Git, GitHub, GitLab,PostgreSQL**
 - 📫 Reach me at **anjaliprakash455@gmail.com**
 
 
