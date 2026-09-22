@@ -79,10 +79,13 @@
 **Backend Developer — Tech Fifo Innovations**  
 📅 Jan 2025 – Present
 
-- Developing backend systems using **Python, Django, and Django REST Framework**
-- Designing **RESTful APIs** for web and mobile applications
-- Working with **PostgreSQL databases**
-- Implementing **authentication and payment integrations**
+- Developed backend applications using **Python, Django, and Django REST Framework**.
+- Built and maintained **RESTful APIs** for web and mobile applications.
+- Worked with **PostgreSQL** databases and improved query performance.
+- Implemented secure **authentication and authorization** for APIs.
+- Integrated **payment gateways** and real-time features.
+- Collaborated with frontend teams for **API integration**.
+- Fixed bugs and improved application performance and scalability
 
 
 # 🚀 Featured Projects
